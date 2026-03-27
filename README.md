@@ -7,15 +7,11 @@ The goal of this project is to practice front-end development by recreating the 
 
 * Amazon-style navigation bar
 * Product sections layout
-  ## 📸 Project Preview
-![Amazon Landing Page](screenshot.png)
 * Banner / hero section
-  ## 📸 Project Preview
-![Amazon Landing Page](screenshot2.png)
 * Footer section
-  ## 📸 Project Preview
-![Amazon Landing Page](screenshot3.png)
 * Clean and simple UI design
+* ## 📸 Project Preview
+![Amazon Landing Page](screenshot.png)
 
 ##  Technologies Used
 
